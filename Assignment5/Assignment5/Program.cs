@@ -10,6 +10,12 @@ namespace Assignment5
     {
         static void Main(string[] args)
         {
+
+            // TODO: initialize the inventory
+            // Add a few items
+            // Remove a few items
+            // show the inventory.
+
         }
     }
 }
