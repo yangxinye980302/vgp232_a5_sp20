@@ -20,5 +20,10 @@ namespace Assignment5
             Modifier = modifier;
             IType = type;
         }
+
+        internal void Show()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
